@@ -1,30 +1,31 @@
-# 💫 About Me
+# 💫 About Me:
 
 👋 Hi, I’m **Vansh Parashar**
 🎓 Computer Science Engineering Graduate
 💻 **Software Developer | Full-Stack Developer**
 
-I’m a Software Developer passionate about building reliable, scalable, and user-focused applications. I enjoy solving problems, developing full-stack web applications, and learning modern software development technologies.
+I’m passionate about building scalable, reliable, and user-focused software applications. I enjoy solving problems, developing full-stack applications, and working with modern technologies across frontend, backend, databases, and deployment.
 
-🚀 **What I Work With:**
+🚀 **Software Development Skills:**
 
-* JavaScript, C++, Python
-* React.js, Node.js, Express.js
-* MongoDB, MySQL
-* REST APIs & JWT Authentication
-* Docker, Git & GitHub
-* Problem Solving & Data Structures
+* Frontend Development — HTML, CSS, JavaScript, React.js, Tailwind CSS
+* Backend Development — Node.js, Express.js, EJS, REST APIs
+* Databases — MongoDB, MySQL
+* Programming — C, C++, Python
+* Authentication — JWT
+* Development & Deployment — Docker, Render, Vite
+* Tools — Git, GitHub, NPM, Postman, Nodemon, Canva
 
 🌱 Currently improving my **Data Structures & Algorithms, backend development, system design, and software engineering skills**.
 
-📌 I’m always learning, building projects, and looking for opportunities to grow as a **Software Developer**.
+📌 I’m always learning, building projects, and improving through problem-solving and real-world development.
 
-## 🌐 Connect With Me
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/in/vansh-parashar-73v)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:parasharvansh719@gmail.com)
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
@@ -35,25 +36,33 @@ I’m a Software Developer passionate about building reliable, scalable, and use
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge\&logo=ejs\&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge\&logo=nodemon\&logoColor=%BBDEAD)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 
-## 📊 GitHub Stats
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)
 
-![](https://github-readme-stats.vercel.app/api?username=VANSH-73-WEB\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+# 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=VANSH-73-WEB\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=VANSH-73-WEB\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=VANSH-73-WEB\&theme=dark\&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VANSH-73-WEB\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
